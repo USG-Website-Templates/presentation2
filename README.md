@@ -1,3 +1,6 @@
+Great thanks go to @@hakimel for [developing and opensourcing such a great framework](https://github.com/hakimel/reveal.js).  The version hosted in this repository is cleaned up to be simpler and easy to modify, but further examples of what you can do [can be seen here](https://github.com/hakimel/reveal.js/blob/master/index.html) and ample instructions are below.  
+
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
